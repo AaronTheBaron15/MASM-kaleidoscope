@@ -1,0 +1,3 @@
+﻿  Assembling main.asm...
+main.asm(9): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  exam2.vcxproj -> C:\Users\Aaron\Desktop\school\assembly\exam2\exam2\Debug\exam2.exe
