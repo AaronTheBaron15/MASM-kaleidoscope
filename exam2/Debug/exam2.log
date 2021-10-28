@@ -1,3 +1,3 @@
 ﻿  Assembling main.asm...
-main.asm(9): warning A4011: multiple .MODEL directives found : .MODEL ignored
-  exam2.vcxproj -> C:\Users\Aaron\Desktop\school\assembly\exam2\exam2\Debug\exam2.exe
+main.asm(7): fatal error A1000: cannot open file : Irvine32.inc
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /I "C:\irvine" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
